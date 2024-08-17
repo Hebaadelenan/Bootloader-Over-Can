@@ -4,7 +4,7 @@
  *
  * This file contains private declarations and global variables used internally by the CAN Manager module.
  *
- * @author Mohamed Gamal
+ * @author Heba Adel
  * @version V01
  * @date 25/09/2023
  */

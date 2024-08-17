@@ -5,7 +5,7 @@
  * This file contains the implementation of the CAN Manager module for Tiva-C microcontroller.
  * It provides functions for initializing CAN, transmitting and receiving messages, and handling interrupts.
  *
- * @author Mohamed Gamal
+ * @author Heba Adel
  * @version V01
  * @date 25/09/2023
  */

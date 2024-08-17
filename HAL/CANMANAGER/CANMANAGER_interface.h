@@ -5,7 +5,7 @@
  * This file contains the interface (function prototypes) for the CAN Manager module
  * for Tiva-C microcontroller.
  *
- * @author Mohamed Gamal
+ * @author Heba Adel
  * @version V01
  * @date 25/09/2023
  */

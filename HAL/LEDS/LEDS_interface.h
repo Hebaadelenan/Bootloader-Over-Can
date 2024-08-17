@@ -5,7 +5,7 @@
  * This file contains the interface (function prototypes) for the LED driver module
  * for controlling LEDs on a Tiva-C microcontroller.
  *
- * @authors Mohamed Gamal
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */
