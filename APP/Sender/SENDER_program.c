@@ -4,7 +4,7 @@
  *
  * This file contains the implementation of the SENDER driver module, which sends data over the CAN bus.
  *
- * @authors Ehab Roushdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

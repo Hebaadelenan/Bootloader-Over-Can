@@ -5,7 +5,7 @@
  * This file contains private elements, including enum definitions, static global variables,
  * and static function prototypes used internally by the BOOTLOADER driver module.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

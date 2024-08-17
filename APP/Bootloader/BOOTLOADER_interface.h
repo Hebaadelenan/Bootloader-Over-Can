@@ -4,7 +4,7 @@
  *
  * This file contains function prototypes and definitions for the BOOTLOADER driver module.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

@@ -6,7 +6,7 @@
  * It is responsible for receiving firmware updates over the CAN bus, validating the received data, and
  * programming it into flash memory.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

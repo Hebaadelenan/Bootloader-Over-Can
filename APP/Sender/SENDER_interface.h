@@ -4,7 +4,7 @@
  *
  * This file contains the function prototypes for initializing and starting the SENDER module.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

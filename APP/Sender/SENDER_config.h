@@ -4,7 +4,7 @@
  *
  * This file contains configuration constants and macros for the SENDER module.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

@@ -5,7 +5,7 @@
  * This file contains configuration settings for the BOOTLOADER driver module,
  * including CAN message IDs, message lengths, CAN controller IDs, memory addresses, and timeouts.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */

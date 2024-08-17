@@ -4,7 +4,7 @@
  *
  * This file contains private definitions and functions used internally by the SENDER driver module.
  *
- * @authors Ehab Roshdy
+ * @authors Heba Adel
  * @version V01
  * @date 25/09/2023
  */
